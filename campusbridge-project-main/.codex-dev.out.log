@@ -1,0 +1,4 @@
+
+> campusbridge-project@1.0.0 dev
+> concurrently "cd backend && npm start" "cd frontend && npm run dev"
+

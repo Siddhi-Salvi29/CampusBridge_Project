@@ -1,0 +1,9 @@
+Resume Upload Error: Error: Table 'job_portal.student_resumes' doesn't exist
+    at PromiseConnection.execute (C:\Users\Lenovo\Desktop\campusbridge-project\backend\node_modules\mysql2\lib\promise\connection.js:47:22)
+    at file:///C:/Users/Lenovo/Desktop/campusbridge-project/backend/server.js:287:14 {
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sql: 'INSERT INTO student_resumes (student_id, resume_path) VALUES (?, ?)',
+  sqlState: '42S02',
+  sqlMessage: "Table 'job_portal.student_resumes' doesn't exist"
+}

@@ -1,0 +1,21 @@
+node:internal/child_process:421
+    throw new ErrnoException(err, 'spawn');
+    ^
+
+Error: spawn EPERM
+    at ChildProcess.spawn (node:internal/child_process:421:11)
+    at spawn (node:child_process:796:9)
+    at module.exports (C:\Users\Lenovo\Desktop\campusbridge-project\node_modules\spawn-command\lib\spawn-command.js:16:10)
+    at Proxy.start (C:\Users\Lenovo\Desktop\campusbridge-project\node_modules\concurrently\dist\src\command.js:55:28)
+    at maybeRunMore (C:\Users\Lenovo\Desktop\campusbridge-project\node_modules\concurrently\dist\src\concurrently.js:126:13)
+    at concurrently (C:\Users\Lenovo\Desktop\campusbridge-project\node_modules\concurrently\dist\src\concurrently.js:83:9)
+    at exports.default (C:\Users\Lenovo\Desktop\campusbridge-project\node_modules\concurrently\dist\src\index.js:34:44)
+    at Object.<anonymous> (C:\Users\Lenovo\Desktop\campusbridge-project\node_modules\concurrently\dist\bin\concurrently.js:207:21)
+    at Module._compile (node:internal/modules/cjs/loader:1812:14)
+    at Object..js (node:internal/modules/cjs/loader:1943:10) {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'spawn'
+}
+
+Node.js v24.14.0

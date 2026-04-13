@@ -1,0 +1,93 @@
+
+> backend@1.0.0 start
+> node server.js
+
+Folders ready
+Backend running on http://localhost:5000
+Connected to MySQL Database
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login failed: Password mismatch.
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login failed: Password mismatch.
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login failed: Password mismatch.
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login failed: Password mismatch.
+Attempting login for Email: govare.soham24@rmcet.com, Role: Alumni
+Login failed: Role mismatch. DB: student, Input: alumni
+Attempting login for Email: govare.soham24@rmcet.com, Role: Admin
+Login failed: Role mismatch. DB: student, Input: admin
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login failed: Password mismatch.
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login failed: Password mismatch.
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login failed: Password mismatch.
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login failed: Password mismatch.
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login failed: Password mismatch.
+Attempting login for Email: rahul@rmcet.com, Role: Student
+Login successful for User ID: 2
+Saving file to: C:\Users\Lenovo\Desktop\campusbridge-project\backend\uploads\1775208728195-sid profile.jpg
+Attempting login for Email: ghuge.maharudra22@rmcet.com, Role: Student
+Login successful for User ID: 6
+Attempting login for Email: ghuge.maharudra22@rmcet.com, Role: Student
+Login successful for User ID: 6
+Attempting login for Email: admin123@rmcet.com, Role: Admin
+Login failed: Email 'admin123@rmcet.com' not found.
+Attempting login for Email: admin123@rmcet.com, Role: Admin
+Login failed: Email 'admin123@rmcet.com' not found.
+Attempting login for Email: admin123@rmcet.com, Role: Admin
+Login failed: Email 'admin123@rmcet.com' not found.
+Attempting login for Email: admin123@rmcet.com, Role: Admin
+Login failed: Email 'admin123@rmcet.com' not found.
+Attempting login for Email: admin123@rmcet.com, Role: Admin
+Login failed: Email 'admin123@rmcet.com' not found.
+Saving file to: C:\Users\Lenovo\Desktop\campusbridge-project\backend\uploads\1775211238551-sid profile.jpg
+Attempting login for Email: salvi.siddhi22@rmcet.com, Role: Student
+Login successful for User ID: 7
+Attempting login for Email: salvi.siddhi22@rmcet.com, Role: Student
+Login successful for User ID: 7
+Attempting login for Email: vetal.anjali25@rmcet.com, Role: Alumni
+Login successful for User ID: 4
+Attempting login for Email: gurav.siddhesh22@rmcet.com, Role: Student
+Login failed: Role mismatch. DB: admin, Input: student
+Attempting login for Email: gurav.siddhesh22@rmcet.com, Role: Admin
+Login successful for User ID: 5
+Fetched 5 users for Admin.
+Fetched 5 users for Admin.
+Fetched 5 users for Admin.
+Fetched 5 users for Admin.
+Fetched 5 users for Admin.
+Fetched 5 users for Admin.
+Fetched 5 users for Admin.
+Fetched 5 users for Admin.
+Attempting login for Email: ghuge.maharudra22@rmcet.com, Role: Student
+Login successful for User ID: 6
+Attempting login for Email: ghuge.maharudra22@rmcet.com, Role: Student
+Login successful for User ID: 6
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login successful for User ID: 3
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login failed: Password mismatch.
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login successful for User ID: 3
+Attempting login for Email: gurav.siddhesh22@rmcet.com, Role: Alumni
+Login failed: Role mismatch. DB: admin, Input: alumni
+Attempting login for Email: gurav.siddhesh22@rmcet.com, Role: Alumni
+Login failed: Role mismatch. DB: admin, Input: alumni
+Attempting login for Email: gurav.siddhesh22@rmcet.com, Role: Alumni
+Login failed: Role mismatch. DB: admin, Input: alumni
+Attempting login for Email: gurav.siddhesh22@rmcet.com, Role: Alumni
+Login failed: Role mismatch. DB: admin, Input: alumni
+Attempting login for Email: gurav.siddhesh22@rmcet.com, Role: Alumni
+Login failed: Role mismatch. DB: admin, Input: alumni
+Attempting login for Email: gurav.siddhesh22@rmcet.com, Role: Admin
+Login successful for User ID: 5
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login failed: Password mismatch.
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login failed: Password mismatch.
+Attempting login for Email: govare.soham24@rmcet.com, Role: Student
+Login successful for User ID: 3
